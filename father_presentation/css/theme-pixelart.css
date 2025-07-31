@@ -1,0 +1,57 @@
+/* --- Importar Fuente Pixelada de Google Fonts --- */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+/* --- PALETA DE COLORES HOMOLOGADA CON EL LOGO DEL COLEGIO SAN JOSÉ --- */
+:root {
+  --r-background-color: rgba(10, 7, 29, 1); 
+  --r-main-color: #f0f0f0; 
+  --r-heading-color: #11d4a7; 
+  --r-secondary-color: #fbcb0a;
+  --r-tertiary-color: #d5efaf;
+  --r-link-color: var(--r-secondary-color); 
+  --r-selection-background-color: var(--r-heading-color);
+  --r-selection-color: var(--r-background-color);
+  --r-main-font: 'Press Start 2P', sans-serif;
+  --r-heading-font: 'Press Start 2P', sans-serif;
+}
+
+.reveal .slides h1 {
+  color: #11d4a7; /* Verde agua brillante */
+}
+.reveal .slides h2 {
+  color: #fbcb0a; /* Amarillo vibrante */
+}
+.reveal .slides p {
+  color: #d5efaf; /* Verde claro pastel */
+}
+
+/* --- ESTILOS GENERALES --- */
+.reveal {
+  font-family: var(--r-main-font);
+  font-size: 20px; /* Tamaño base reducido para móvil */
+}
+
+/* --- LOGO PIXEL ART DEL COLEGIO COMO FONDO EN TODAS LAS DIAPOSITIVAS --- */
+.reveal .slides {
+  background-color: var(--r-background-color);
+  background-image: url('../img/logo-pixelart.png');
+  background-size: 100%;
+  height: 100%;
+  width: 100%;
+}
+
+/* Overlay más sutil para mejor integración */
+.reveal .slides::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    135deg, 
+    rgba(10, 7, 29, 0.95) 0%, 
+    rgba(10, 7, 29, 0.9) 50%, 
+    rgba(10, 7, 29, 0.95) 100%
+  );
+}
