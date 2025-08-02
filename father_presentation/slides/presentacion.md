@@ -21,7 +21,7 @@
             <li>Enfocado en aprendizaje práctico y creativo.</li>
           </ul>
       </ul>
-      <img src="../img/about-me-teaching.png" alt="Pixel Art Teacher"
+      <img src="./father_presentation/img/about-me-teaching.png" alt="Pixel Art Teacher"
         style="width: 300px; height: auto; flex-shrink: 0; border-radius: 15px;
         box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); background: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(0, 0, 0, 0.5));">
     </div>
@@ -34,15 +34,15 @@
     </p>
     <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
         <div style="text-align: center;">
-            <img src="../img/python-brand.png" alt="Python Logo" style="width: 120px; height: auto; border-radius: 10px;">
+            <img src="./father_presentation/img/python-brand.png" alt="Python Logo" style="width: 120px; height: auto; border-radius: 10px;">
             <p style="font-size: 1.1em; color: #fbcb0a; margin-top: 10px;">Python</p>
         </div>
         <div style="text-align: center;">
-            <img src="../img/java-brand.png" alt="Java Logo" style="width: 120px; height: auto; border-radius: 10px;">
+            <img src="./father_presentation/img/java-brand.png" alt="Java Logo" style="width: 120px; height: auto; border-radius: 10px;">
             <p style="font-size: 1.1em; color: #fbcb0a; margin-top: 10px;">Java</p>
         </div>
         <div style="text-align: center;">
-            <img src="../img/AI-brand.png" alt="AI Logo" style="width: 120px; height: auto; border-radius: 10px;">
+            <img src="./father_presentation/img/AI-brand.png" alt="AI Logo" style="width: 120px; height: auto; border-radius: 10px;">
             <p style="font-size: 1.1em; color: #fbcb0a; margin-top: 10px;">IA</p>
         </div>
     </div>
@@ -87,7 +87,7 @@
         </div>
         <div style="flex: 1; text-align: center;">
             <h2 style="font-size: 1.5em; color: #fbcb0a;">Competencia Destacada:</h2>
-            <img src="../img/competition.png" alt="Competencia en Cartagena" 
+            <img src="./father_presentation/img/competition.png" alt="Competencia en Cartagena" 
                  style="width: 320px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
         </div>
     </div>
@@ -111,7 +111,7 @@
         </div>
         <div style="flex: 1; text-align: center;">
             <h2 style="font-size: 1.2em; color: #fbcb0a;">Un Vistazo al Futuro:</h2>
-            <img src="../img/professional-programmer.png" alt="Java Professional Placeholder" 
+            <img src="./father_presentation/img/professional-programmer.png" alt="Java Professional Placeholder" 
                  style="width: 300px; height: auto; margin-top: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
         </div>
     </div>
@@ -124,37 +124,37 @@
   </p>
   <div class="r-stack">
     <div class="fragment current-visible" data-fragment-index="0">
-      <img style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);"  src="../img/11-goal-1.png"/>
+      <img style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);"  src="./father_presentation/img/11-goal-1.png"/>
       <p style="font-size: 1.2em; color: #fbcb0a;">
         Segundo puesto en el data challenge en la Universidad del Norte.
       </p>
     </div>
     <div class="fragment current-visible" data-fragment-index="1">
-      <img style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);"  src="../img/competition.png"/>
+      <img style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);"  src="./father_presentation/img/competition.png"/>
       <p style="font-size: 1.2em; color: #fbcb0a;">
         Primer y Segundo puesto hackaton colegio Cojowa.
       </p>
     </div>
     <div class="fragment current-visible" data-fragment-index="2">
-      <img style="width: 500px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);"  src="../img/11-goal-3.png"/>
+      <img style="width: 500px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);"  src="./father_presentation/img/11-goal-3.png"/>
       <p style="font-size: 1.2em; color: #fbcb0a;">
         Proyecto en conjunto con la asignatura de física.
       </p>
     </div>
     <div class="fragment current-visible" data-fragment-index="3">
-      <img style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);"  src="../img/11-goal-4.png"/>
+      <img style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);"  src="./father_presentation/img/11-goal-4.png"/>
       <p style="font-size: 1.2em; color: #fbcb0a;">
         Chatbot de IA especializado para la resolución de ejercicios de Computer Science.
       </p>
     </div>
     <div class="fragment current-visible" data-fragment-index="4">
-      <img style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);"  src="../img/11-goal-5.png"/>
+      <img style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);"  src="./father_presentation/img/11-goal-5.png"/>
       <p style="font-size: 1.2em; color: #fbcb0a;">
         Juego de ajedrez contra IA stockfish.
       </p>
     </div>
     <div class="fragment">
-      <img style="width: 500px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);"  src="../img/11-goal-6.jpg"/>
+      <img style="width: 500px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);"  src="./father_presentation/img/11-goal-6.jpg"/>
       <p style="font-size: 1.2em; color: #fbcb0a;">
         Presentación de proyectos en la Universidad del Norte.
       </p>
@@ -169,7 +169,7 @@
     </p>
     <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; margin-top: 30px;">
         <div style="flex: 1; text-align: center;">
-            <img src="../img/python-brand.png" alt="Python Logo" 
+            <img src="./father_presentation/img/python-brand.png" alt="Python Logo" 
                  style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
         </div>
         <div style="flex: 2;">
@@ -190,7 +190,7 @@
     </p>
     <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; margin-top: 30px;">
         <div style="flex: 1; text-align: center;">
-            <img src="../img/java-brand.png" alt="Java Logo" 
+            <img src="./father_presentation/img/java-brand.png" alt="Java Logo" 
                  style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
         </div>
         <div style="flex: 2;">
@@ -230,12 +230,12 @@
         <div class="fragment" data-fragment-index="1">
             <div style="display: flex; justify-content: center; align-items: center; gap: 60px; width: 100%; padding-top: 50px;">
                 <div style="text-align: center;">
-                    <img src="../img/python-badge.png" alt="Python Professional Badge" 
+                    <img src="./father_presentation/img/python-badge.png" alt="Python Professional Badge" 
                          style="width: 230px; height: auto; border-radius: 15px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.6);">
                     <p style="font-size: 1.3em; color: #fbcb0a; margin-top: 15px;">Insignia Profesional de Python</p>
                 </div>
                 <div style="text-align: center;">
-                    <img src="../img/java-badge.png" alt="Java Professional Badge" 
+                    <img src="./father_presentation/img/java-badge.png" alt="Java Professional Badge" 
                          style="width: 230px; height: auto; border-radius: 15px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.6);">
                     <p style="font-size: 1.3em; color: #fbcb0a; margin-top: 15px;">Insignia Profesional de Java</p>
                 </div>
@@ -287,7 +287,7 @@
     <!-- Testimonial 1 -->
     <div class="fragment current-visible" data-fragment-index="0"
       style="display: flex; flex-direction: column; align-items: center;">
-      <img src="../img/andres_villadiego0_qr.png" alt="QR Code for Instagram Profile"
+      <img src="./father_presentation/img/andres_villadiego0_qr.png" alt="QR Code for Instagram Profile"
         style="width: 120px; height: 120px; border-radius: 10px; border: 2px solid white;">
       <a href="https://www.instagram.com/andres_villadiego0" target="_blank"
         style="display: flex; align-items: center; gap: 10px; margin-top: 20px; text-decoration: none; color: #e0e0e0; background-color: rgba(255,255,255,0.1); padding: 8px 15px; border-radius: 20px;">
@@ -344,7 +344,7 @@
     <a href="https://www.linkedin.com/in/emanuel-isaac-afanador-pacheco-385223160/" target="_blank" style="text-decoration: none; color: inherit; display: inline-block; margin-top: 40px;">
         <div style="background-color: #28343e; border-radius: 15px; width: 350px; padding: 20px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5); text-align: left; transition: transform 0.2s ease;">
           <div style="display: flex; align-items: center; margin-bottom: 15px; gap: 15px;">
-            <img src="../img/about-me-teaching.png" alt="Profile Picture" style="width: 80px; height: 80px; border-radius: 50%; border: 3px solid #11d4a7; margin-bottom: 15px;">
+            <img src="./father_presentation/img/about-me-teaching.png" alt="Profile Picture" style="width: 80px; height: 80px; border-radius: 50%; border: 3px solid #11d4a7; margin-bottom: 15px;">
             <p style="font-size: 1.2em; color: #ffffff;"> <strong>Emanuel Afanador</strong> </p>
             </div>
             <p style="font-size: 0.5em; color: #d5efaf; margin: 5px 0 15px 0;">Matemático | Ing. de Software IA en Bancolombia | Magíster en Educación</p>
