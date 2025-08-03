@@ -31,30 +31,10 @@
   font-size: 20px; /* Tamaño base reducido para móvil */
 }
 
-/* --- LOGO PIXEL ART DEL COLEGIO COMO FONDO EN TODAS LAS DIAPOSITIVAS --- */
-.reveal .slides {
-  background-color: var(--r-background-color);
+.reveal .slide-background-content {
   background-image: url('../img/logo-pixelart.png');
   background-size: contain;
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
-  height: 100%;
-  width: 100%;
-}
-
-/* Overlay más sutil para mejor integración */
-.reveal .slides::before {
-  content: '';
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(
-    135deg, 
-    rgba(10, 7, 29, 0.95) 0%, 
-    rgba(10, 7, 29, 0.9) 50%, 
-    rgba(10, 7, 29, 0.95) 100%
-  );
-  pointer-events: none;
+  opacity: 0.15;
 }
