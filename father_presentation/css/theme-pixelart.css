@@ -36,5 +36,21 @@
   background-size: contain;
   background-position: center center;
   background-repeat: no-repeat;
-  opacity: 0.10;
+  opacity: 1;
+}
+
+/* Overlay más sutil para mejor integración */
+.reveal .slide-background-content::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    135deg, 
+    rgba(10, 7, 29, 0.95) 0%, 
+    rgba(10, 7, 29, 0.9) 50%, 
+    rgba(10, 7, 29, 0.95) 100%
+  );
 }
